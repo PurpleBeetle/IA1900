@@ -9,4 +9,4 @@ def encontrar_mayor(lista):
 
 numeros = [3, 9, 4, 1, 15]
 resultado = encontrar_mayor(numeros)
-print("El número mayor es:", resultado)
+print("El numero mayor es:", resultado)
